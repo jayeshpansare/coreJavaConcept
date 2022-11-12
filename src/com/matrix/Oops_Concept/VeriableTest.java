@@ -7,6 +7,7 @@ public class VeriableTest {
 
     //accessSpecifier returnType methodName
     public static void main(String[] args){
+        // class name object = create a constructor  name of constructor
         VeriableTest obj = new VeriableTest();
         obj.addTwoNumbers();
 
